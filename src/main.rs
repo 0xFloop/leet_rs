@@ -1,5 +1,5 @@
 mod problems;
 fn main() {
-    let res = problems::medium::generate_parenthesis::solve();
+    let res = problems::easy::summary_ranges::solve();
     println!("Solution : {:?}", res);
 }

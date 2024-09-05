@@ -41,6 +41,7 @@ pub mod search_insert_position;
 pub mod single_number;
 pub mod sorted_array_to_bst;
 pub mod str_in_str;
+pub mod summary_ranges;
 pub mod title_to_number;
 pub mod two_sum;
 pub mod valid_palindrome;
