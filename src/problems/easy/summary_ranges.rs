@@ -1,5 +1,8 @@
 pub fn solve() -> u32 {
     let nums = [0, 2, 3, 4, 6, 8, 9];
+    if nums.is_empty() {
+        return 0;
+    }
     let mut prior_num = nums[0];
     let mut seq_start = nums[0];
     let mut ranges: Vec<String> = Vec::new();
