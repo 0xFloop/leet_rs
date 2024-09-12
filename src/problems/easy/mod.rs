@@ -1,4 +1,5 @@
 pub mod add_binary;
+pub mod add_digits;
 pub mod balanced_binary_tree;
 pub mod binary_tree_paths;
 pub mod buy_and_sell_stocks;

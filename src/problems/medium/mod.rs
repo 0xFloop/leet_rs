@@ -10,6 +10,7 @@ pub mod my_atoi;
 pub mod next_permutation;
 pub mod remove_nth_node_from_end;
 pub mod reverse_integer;
+pub mod search_in_rotated_sorted_array;
 pub mod swap_nodes;
 pub mod three_sum;
 pub mod three_sum_closest;
